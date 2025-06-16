@@ -1,12 +1,3 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
+
 HOLA
-=======
-<<<<<<< Updated upstream
-=======
-HOLA
-xd
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+
